@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { ToastContainer } from "react-toastify";
 import Scnd from "./Scnd";
 import { NavLink } from "react-router-dom";
-import Footer from "../Footer/Footer";
+// import Footer from "../Footer/Footer";
 
 const Homepage = () => {
   const [typedText, setTypedText] = useState('');

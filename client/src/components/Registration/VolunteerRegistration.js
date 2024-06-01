@@ -8,7 +8,7 @@ import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { volunteerRegistration } from "../../actions/user";
-import Footer from "../Footer/Footer";
+// import Footer from "../Footer/Footer";
 
 const VolunteerRegistration = () => {
   const [VolunteerName, setVolunteerName] = useState("");

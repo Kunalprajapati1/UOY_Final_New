@@ -3,7 +3,7 @@ import { useDispatch } from "react-redux";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { bgRegistration } from "../../actions/user";
-import Footer from "../Footer/Footer";
+// import Footer from "../Footer/Footer";
 
 const Donate = () => {
   const [DonorName, setDonorName] = useState("");

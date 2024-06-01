@@ -1,6 +1,6 @@
 import React from "react";
 import VMBlock from "./VMBlock";
-import Footer_scnd from "../Footer/Footer_scnd";
+// import Footer_scnd from "../Footer/Footer_scnd";
 // import { motion } from "framer-motion";
 
 const VisionMission = () => {
